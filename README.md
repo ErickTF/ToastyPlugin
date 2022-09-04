@@ -1,1 +1,1 @@
-# ToastyPlugin-
+# ToastyPlugin
